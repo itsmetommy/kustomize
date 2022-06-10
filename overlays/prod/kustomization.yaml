@@ -5,3 +5,4 @@ resources:
 - service.yaml
 commonLabels:
   env: prod
+nameSuffix: -prod

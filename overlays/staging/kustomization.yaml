@@ -5,3 +5,4 @@ resources:
 - service.yaml
 commonLabels:
   env: staging
+nameSuffix: -staging
