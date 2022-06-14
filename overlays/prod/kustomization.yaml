@@ -6,4 +6,4 @@ commonLabels:
   env: prod
 nameSuffix: -prod
 patches:
-- service.yaml
+- service-patch.yaml
